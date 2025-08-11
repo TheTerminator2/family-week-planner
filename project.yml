@@ -1,0 +1,9 @@
+name: FamilyWeekPlanner
+settings:
+  IPHONEOS_DEPLOYMENT_TARGET: "17.0"
+  DEVELOPMENT_TEAM: "AXBK6C8XVM"        # <- dit Team ID
+targets:
+  FamilyWeekPlanner:
+    type: application
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.Henrik.familyweekplanner  # <- dit bundle id
